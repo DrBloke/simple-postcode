@@ -9,7 +9,7 @@ git clone ... simple-postcode.git
 ```
 
 ```
-cd postcode-app
+cd simple-postcode
 npm install
 npm run dev
 ```
