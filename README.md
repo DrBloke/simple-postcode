@@ -5,7 +5,7 @@
 Clone this repository
 
 ```
-git clone ... postcode-app
+git clone ... simple-postcode.git
 ```
 
 ```
